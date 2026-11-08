@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/canonical/sdcore-gnbsim-operator/commit/954093392564bba2b321d5ab2a20040bcdb3d16b",
       "git:hexsha": "954093392564bba2b321d5ab2a20040bcdb3d16b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T14:57:19.788977+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/sdcore-gnbsim-operator/commit/ecc3eea37138e6a9dc6d5dd6af4c47b125dbefbc",
