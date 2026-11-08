@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "sdcore-gnbsim-operator",
+  "versions": [
+    {
+      "commit": "954093392564bba2b321d5ab2a20040bcdb3d16b",
+      "tag": "",
+      "parsed_at": "2026-11-08T14:57:19.791626+00:00"
+    }
+  ]
+}
